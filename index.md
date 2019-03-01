@@ -7,6 +7,9 @@ Welcome to the temporary webpage of team zeroday. This page is still under const
 
 Team zer0day offers tech support and maintenance on any personal devices. Part of the money will go towards the South Lakes High School Cyber Patriot Club.
 
+
+Test of the website update. 
+
 ```markdown
 Test Syntax highlighted code block
 
