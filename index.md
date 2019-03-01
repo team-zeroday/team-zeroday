@@ -1,15 +1,14 @@
-## Welcome to GitHub Pages
+## team-zeroday
+## Welcome to the temporary website of team zeroday
 
-You can use the [editor on GitHub](https://github.com/team-zeroday/website.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the temporary webpage of team zeroday. This page is still under construction so it does not represent the final look. New features/improvements will be implemented soon. To report a bug or ask a question please email **zeroday.biz@gmail.com**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Tech Support
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Team zer0day offers tech support and maintenance on any personal devices. Part of the money will go towards the South Lakes High School Cyber Patriot Club.
 
 ```markdown
-Syntax highlighted code block
+Test Syntax highlighted code block
 
 # Header 1
 ## Header 2
@@ -26,12 +25,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more information about repairs please see [zeroday tech support](https://vladi443.github.io/team-zeroday/about).
 
-### Jekyll Themes
+### Competitions
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/team-zeroday/website.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+_Cyber Patriot_: Team zeroday made it to platinum league on state's level, which was the farthest any team from South Lakes HS has ever been to.
 
-### Support or Contact
+### About us
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Small hackers team that works on fixing machines and finding and fixing vulnerabilites on machines and networks. If you have any question please contact us at **zeroday.biz@gmail.com**
