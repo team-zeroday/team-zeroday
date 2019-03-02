@@ -1,4 +1,4 @@
-## team-zeroday
+# team-zeroday
 ## Welcome to the temporary website of team zeroday
 
 Welcome to the temporary webpage of team zeroday. This page is still under construction so it does not represent the final look. New features/improvements will be implemented soon. To report a bug or ask a question please email **zeroday.biz@gmail.com**
