@@ -1,13 +1,16 @@
 # team-zeroday
 ## Welcome to the temporary website of team zeroday
 
-Welcome to the temporary webpage of team zeroday. This page is still under construction so it does not represent the final look. New features/improvements will be implemented soon. To report a bug or ask a question please email **zeroday.biz@gmail.com**
+Welcome to the webpage of team zeroday. Note that this page is still under construction. New features/improvements will be implemented soon. To report a bug or ask a question please email **zeroday.biz@gmail.com**
 
 ### Tech Support
 
 
 Team zer0day offers tech support and maintenance on any personal devices. Part of the money will go towards the South Lakes High School Cyber Patriot Club.
 
+<marquee>
+  Repairs and more.
+  </marquee>
 ```markdown
 Test Syntax highlighted code block
 
