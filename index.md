@@ -9,7 +9,7 @@ Welcome to the webpage of team zeroday. Note that this page is still under const
 Team zer0day offers tech support and maintenance on any personal devices. Part of the money will go towards the South Lakes High School Cyber Patriot Club.
 
 <marquee>
-  Repairs and more.
+  We are located in room 489. Come stop by afterschool!
   </marquee>
 ```markdown
 Test Syntax highlighted code block
